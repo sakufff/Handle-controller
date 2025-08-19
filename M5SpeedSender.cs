@@ -1,6 +1,6 @@
 using UnityEngine;
 
-/// �ԑ�(km/h)�� M5 �� SPD:<int> �ő���
+/// �ԑ�(km/h)�� M5 �� SPD:<int> �ő��
 [AddComponentMenu("Vehicle Physics/Utility/M5 Speed Sender")]
 public class M5SpeedSender : MonoBehaviour
 {
