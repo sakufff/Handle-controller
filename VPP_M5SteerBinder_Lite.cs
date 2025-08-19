@@ -8,7 +8,7 @@ public class VPP_M5SteerBinder_Lite : MonoBehaviour
 {
     [Header("Refs")]
     public VPStandardInput standardInput;        // 車側の Standard Input
-    public M5StickSerialSteering source;         // M5Stick 読み取り
+    public M5StickSerialSteering source;         // M5Stick 読み取り 
 
     [Header("Steer options")]
     public bool invertSteer = false;
